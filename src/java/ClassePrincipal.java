@@ -12,5 +12,7 @@ public class ClassePrincipal {
 		} else {
 			System.err.println("Without arguments...");
 		}
+		
+		System.out.println("Logout...");
 	}
 }
