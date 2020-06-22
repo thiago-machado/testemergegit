@@ -10,7 +10,7 @@ public class ClassePrincipal {
 				System.out.println(argument);
 			}
 		} else {
-			System.err.println("Without arguments...");
+			System.err.println("Without arguments...")
 		}
 	}
 }
