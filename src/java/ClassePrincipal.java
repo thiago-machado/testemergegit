@@ -7,8 +7,8 @@ public class ClassePrincipal {
 		
 		if(args != null && args.size() > 0) {
 			for(String argument : args) {
-				System.out.println("Arg...");
-				System.out.println(argument);
+				System.out.println("Arg...")
+				System.out.println(argument)
 			}
 		} else {
 			System.err.println("Without arguments...");
